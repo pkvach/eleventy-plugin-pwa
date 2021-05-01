@@ -1,4 +1,4 @@
-# @pragmatics/eleventy-plugin-pwa
+# @pkvach/eleventy-plugin-pwa
 
 [![NPM version][version-shield]][version-url]
 [![Maintenance][maintenance-shield]][maintenance-url]
@@ -31,7 +31,7 @@ Since (at this moment) `eleventy` doesn't have any API to do things after build 
 ### Installation
 
 ```sh
-yarn add @pragmatics/eleventy-plugin-pwa
+yarn add @pkvach/eleventy-plugin-pwa
 ```
 
 ### Usage
