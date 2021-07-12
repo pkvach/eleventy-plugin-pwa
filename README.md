@@ -39,7 +39,7 @@ yarn add @pkvach/eleventy-plugin-pwa
 #### Add to eleventy config file
 
 ```js
-const pluginPWA = require('eleventy-plugin-pwa');
+const pluginPWA = require('@pkvach/eleventy-plugin-pwa');
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginPWA);
 };
