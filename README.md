@@ -2,9 +2,7 @@
 
 [![NPM version][version-shield]][version-url]
 [![Maintenance][maintenance-shield]][maintenance-url]
-[![Package size][package-size-shield]][package-size-url] \
 [![Release Status][release-status-shield]][release-status-url]
-[![Dependencies][dependencies-shield]][dependencies-url]
 [![Issues open][issues-shield]][issues-url]
 [![Code coverage][coverage-shield]][coverage-url]
 [![Quality Gate Status][quality-shield]][quality-url]
@@ -111,19 +109,15 @@ This code is available under the [MIT license](LICENSE).
 - Mike Riethmuller: [Supermaya](https://github.com/MadeByMike/supermaya)
 - Zach Leatherman: [zachleat.com](https://github.com/zachleat/zachleat.com)
 
-[version-shield]: https://img.shields.io/npm/v/@pragmatics/eleventy-plugin-pwa.svg
-[version-url]: https://www.npmjs.com/package/@pragmatics/eleventy-plugin-pwa
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg?color=blue
-[maintenance-url]: https://github.com/pvds/eleventy-plugin-pwa/graphs/commit-activity
-[package-size-shield]: https://img.shields.io/bundlephobia/min/eleventy-plugin-pwa.svg?label=size
-[package-size-url]: https://bundlephobia.com/result?p=eleventy-plugin-pwa
-[release-status-shield]: https://img.shields.io/github/workflow/status/pvds/eleventy-plugin-pwa/release.svg
-[release-status-url]: https://github.com/pvds/eleventy-plugin-pwa/actions?query=workflow%3Arelease
-[dependencies-shield]: https://img.shields.io/librariesio/github/pvds/eleventy-plugin-pwa.svg
-[dependencies-url]: https://github.com/pvds/eleventy-plugin-pwa
-[issues-shield]: https://img.shields.io/github/issues/pvds/eleventy-plugin-pwa.svg
-[issues-url]: https://github.com/pvds/eleventy-plugin-pwa/issues
-[coverage-shield]: https://img.shields.io/codecov/c/github/pvds/eleventy-plugin-pwa.svg
-[coverage-url]: https://codecov.io/gh/pvds/eleventy-plugin-pwa
-[quality-shield]: https://img.shields.io/sonar/quality_gate/pvds_eleventy-plugin-pwa.svg?server=https%3A%2F%2Fsonarcloud.io
-[quality-url]: https://sonarcloud.io/dashboard?id=pvds_eleventy-plugin-pwa
+[version-shield]: https://img.shields.io/npm/v/@pkvach/eleventy-plugin-pwa.svg
+[version-url]: https://www.npmjs.com/package/@pkvach/eleventy-plugin-pwa
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg?color=blue
+[maintenance-url]: https://github.com/pkvach/eleventy-plugin-pwa/graphs/commit-activity
+[release-status-shield]: https://img.shields.io/github/workflow/status/pkvach/eleventy-plugin-pwa/release.svg
+[release-status-url]: https://github.com/pkvach/eleventy-plugin-pwa/actions?query=workflow%3Arelease
+[issues-shield]: https://img.shields.io/github/issues/pkvach/eleventy-plugin-pwa.svg
+[issues-url]: https://github.com/pkvach/eleventy-plugin-pwa/issues
+[coverage-shield]: https://img.shields.io/codecov/c/github/pkvach/eleventy-plugin-pwa.svg
+[coverage-url]: https://codecov.io/gh/pkvach/eleventy-plugin-pwa
+[quality-shield]: https://img.shields.io/sonar/quality_gate/pkvach_eleventy-plugin-pwa.svg?server=https%3A%2F%2Fsonarcloud.io
+[quality-url]: https://sonarcloud.io/dashboard?id=pkvach_eleventy-plugin-pwa
