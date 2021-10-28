@@ -43,7 +43,7 @@
     "workbox-build": "^6.3.0"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^0.11.0",
+    "@11ty/eleventy": "^0.12.1",
     "@pragmatics/eslint-config": "^1.0.1",
     "eslint": "^7.9.0",
     "eslint-plugin-jest": "^24.0.1",
