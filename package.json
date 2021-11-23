@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "shimmer": "^1.2.1",
-    "workbox-build": "^6.3.0"
+    "workbox-build": "^6.4.1"
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
