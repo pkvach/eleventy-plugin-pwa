@@ -39,11 +39,10 @@
     "*": "prettier --write --ignore-unknown"
   },
   "dependencies": {
-    "shimmer": "^1.2.1",
-    "workbox-build": "^6.6.0"
+    "workbox-build": "^7.0.0"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^0.12.1",
+    "@11ty/eleventy": "^2.0.0",
     "@pragmatics/eslint-config": "^1.0.1",
     "eslint": "^7.9.0",
     "eslint-plugin-jest": "^24.0.1",
